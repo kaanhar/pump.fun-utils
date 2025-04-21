@@ -7,3 +7,5 @@ This is from a bundler i made a while back, these are the only files i was able 
 
 They should work fine on their own but if u have any questions feel free to send a message to kamasu@duck.com
 
+You need some knowledge to use these, its not a download and run typa file.
+
